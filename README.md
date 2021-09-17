@@ -9,4 +9,4 @@ library pre-requisites pycharm or python editor installed with 3.9.7
 in your system download tessearact from this link=>https://github.com/UB-Mannheim/tesseract/wiki
 under windows intaller tesseract-ocr-w32-setup-v5.0.0-alpha.20210811.exe choose 64 bit or 32 bit
 
-For macOS use this link to download tessaract=>https://tesseract-ocr.github.io/tessdoc/Home.html
+For macOS and others use this link to download tessaract=>https://tesseract-ocr.github.io/tessdoc/Home.html
