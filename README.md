@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
 **Navinsrirangan/Navinsrirangan** is a ✨ _special_ ✨ repository because its `README.md`
-Here are some ideas to get you started:
 
 library pre-requisites pycharm or python editor installed with 3.9.7
 ==> install pytessaract in python under file=>settings=>your_project_name=>project interpretor
