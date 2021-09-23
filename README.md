@@ -10,3 +10,6 @@ in your system download tessearact from this link=>https://github.com/UB-Mannhei
 under windows intaller tesseract-ocr-w32-setup-v5.0.0-alpha.20210811.exe choose 64 bit or 32 bit
 
 For macOS and others use this link to download tessaract=>https://tesseract-ocr.github.io/tessdoc/Home.html
+
+
+![textdetection](https://user-images.githubusercontent.com/90828580/134531019-734b58f2-a4f0-4d59-bdb7-815edf1c47d7.gif)
